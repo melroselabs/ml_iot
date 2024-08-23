@@ -1,6 +1,6 @@
 # ml_iot
 
-## Huffman coding
+## Huffman coding (huffman.py)
 
 Example showing Huffman coding being used to compress IoT telemetry messages.
 
